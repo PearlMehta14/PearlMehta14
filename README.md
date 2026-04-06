@@ -1,106 +1,54 @@
-<!-- TOP BANNER -->
+<!-- ANIMATED DARK BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Hey%20I'm%20Pearl%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey+I'm+Pearl+👋;Full+Stack+Developer;AI+%26+Healthcare+Enthusiast" />
 </p>
 
-<h3 align="center">🚀 Full Stack Developer | AI & Healthcare Enthusiast</h3>
-
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge">
-  </a>
-  <a href="mailto:pearlmeht@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge">
-  </a>
-  <a href="https://github.com/pearlmehta14">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge">
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f2027&height=2&section=header"/>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-Hi, I'm Pearl 👋  
+I’m an enthusiastic developer passionate about building impactful, real-world tech solutions—especially in the domains of **Artificial Intelligence and Healthcare**.  
 
-A passionate developer and problem-solver, enthusiastic about building impactful tech solutions that improve real-world lives.
+I enjoy transforming ideas into meaningful products through clean design, efficient backend systems, and intelligent AI integrations.  
 
----
-
-## 💡 What I'm Enthusiastic About
-
-- 🧠 Artificial Intelligence & Machine Learning  
-- 🏥 Healthcare Technology & Social Impact Solutions  
-- 🌐 Full-Stack Web & App Development  
-- 📱 Clean UI/UX & Product Design  
-- ⚡ Hackathons & Building MVPs Fast  
+Currently, I’m exploring **AI/ML deeply** while actively participating in **hackathons and building innovative projects**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🌐 Connect With Me
 
-### 👨‍💻 Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,dart,java,cpp,c,kotlin" />
-</p>
-
-### 🌐 Frontend
-<p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,react,html,css,tailwind" />
-</p>
-
-### ⚙️ Backend
-<p align="center">
-<img src="https://skillicons.dev/icons?i=flask,firebase,fastapi" />
-</p>
-
-### 🗄️ Database
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,supabase" />
-</p>
-
-### 🤖 AI / ML
-<p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-</p>
-
-### 🧰 Tools & Platforms
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,postman" />
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-black?logo=linkedin&style=for-the-badge">
+  </a>
+  <a href="mailto:pearlmeht@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-black?logo=gmail&style=for-the-badge">
+  </a>
 </p>
 
 ---
 
-## ✨ Typing Animation
+## 🚀 Tech Stack
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Developer;Flutter+Developer;Full+Stack+Builder;Hackathon+Lover" />
+<img src="https://skillicons.dev/icons?i=python,js,dart,java,cpp,c,kotlin,flutter,react,html,css,tailwind,flask,firebase,fastapi,mongodb,mysql,sqlite,supabase,tensorflow,pytorch,sklearn,git,github,vscode,androidstudio,figma,postman" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## ✨ Currently Exploring
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pearlmehta14&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pearlmehta14&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pearlmehta14&layout=compact&theme=tokyonight" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+%26+Machine+Learning;Real-time+AI+Applications;Hackathon+Projects;Scalable+System+Design" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
-
+<!-- DARK FOOTER -->
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pearlmehta14&theme=radical&no-frame=true&margin-w=10" />
-</p>
-
----
-
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=120&section=footer"/>
 </p>
