@@ -56,22 +56,6 @@ I enjoy transforming ideas into clean, functional products with modern technolog
 
 ---
 
-# 📊 GITHUB HISTORY (LIVE STYLE)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=midnight-purple&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=000000&color=da70d6&line=8a2be2&point=ffffff&hide_border=true"/>
-</p>
-
----
-
 # 🎯 WHAT I DO
 
 - Build full-stack applications with modern technologies  
