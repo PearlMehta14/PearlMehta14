@@ -1,60 +1,21 @@
+<!-- 💜 NEON PURPLE HEADER -->
 <p align="center">
-<svg width="100%" height="220" viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg">
-
-  <!-- Gradient -->
-  <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#4b0082">
-        <animate attributeName="stop-color" values="#4b0082;#8a2be2;#da70d6;#4b0082" dur="6s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#da70d6">
-        <animate attributeName="stop-color" values="#da70d6;#8a2be2;#4b0082;#da70d6" dur="6s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-  </defs>
-
-  <!-- Semi-circle -->
-  <path d="M0,180 Q400,0 800,180 L800,220 L0,220 Z"
-        fill="url(#grad)"/>
-
-  <!-- Moving dot -->
-  <circle r="4" fill="#ffffff">
-    <animateMotion dur="6s" repeatCount="indefinite"
-      path="M0,180 Q400,0 800,180"/>
-  </circle>
-
-  <!-- TEXT -->
-  <text x="50%" y="110" text-anchor="middle"
-        font-size="34"
-        fill="white"
-        font-family="Arial"
-        font-weight="bold">
-    Hi I'm Pearl 👋
-  </text>
-
-  <text x="50%" y="140" text-anchor="middle"
-        font-size="16"
-        fill="#e0e0e0">
-    Welcome to my profile
-  </text>
-
-</svg>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b0082,50:8a2be2,100:da70d6&height=280&section=header&text=HELLO%20WORLD&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Welcome%20to%20my%20profile&descSize=20&descAlignY=65"/>
 </p>
-
 
 <!-- 👾 PROFILE ICON -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/000000?v=4" width="100" style="border-radius:50%; border:3px solid #8a2be2;" />
+  <img src="https://avatars.githubusercontent.com/u/000000?v=4" width="100" style="border-radius:50%" />
 </p>
 
 <!-- ✨ ANIMATED TEXT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=DA70D6&size=26&center=true&vCenter=true&width=800&lines=AI%2FML+Explorer;Hackathon+Enthusiast;Building+Impactful+Projects;Creative+Developer&duration=2500&pause=800" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=DA70D6&size=26&center=true&vCenter=true&width=800&lines=Hi+I'm+Pearl+👋;AI%2FML+Explorer;Hackathon+Enthusiast;Building+Impactful+Projects&duration=2500&pause=800" />
 </p>
 
 <!-- 💜 GLOW DIVIDER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:da70d6,50:8a2be2,100:4b0082&height=3"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8a2be2,100:4b0082&height=3"/>
 </p>
 
 ---
@@ -91,6 +52,22 @@ I enjoy transforming ideas into clean, functional products with modern technolog
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,js,dart,java,cpp,c,kotlin,flutter,react,html,css,tailwind,flask,firebase,fastapi,mongodb,mysql,sqlite,supabase,tensorflow,pytorch,sklearn,git,github,vscode,androidstudio,figma,postman&theme=dark" />
+</p>
+
+---
+
+# 📊 GITHUB HISTORY (LIVE STYLE)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=midnight-purple&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=000000&color=da70d6&line=8a2be2&point=ffffff&hide_border=true"/>
 </p>
 
 ---
