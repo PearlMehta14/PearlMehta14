@@ -1,21 +1,26 @@
-<!-- ANIMATED DARK BANNER -->
+<!-- ANIMATED HEADER (GAME / MATRIX STYLE) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey+I'm+Pearl+👋;Full+Stack+Developer;AI+%26+Healthcare+Enthusiast" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=250&section=header&text=Hi%20I'm%20Pearl%20👋&fontSize=45&fontColor=00F7FF&animation=fadeIn&fontAlignY=40" />
 </p>
 
+<!-- TYPING EFFECT -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f2027&height=2&section=header"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;AI+%2F+ML+Explorer;Building+Cool+Projects" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I’m an enthusiastic developer passionate about building impactful, real-world tech solutions—especially in the domains of **Artificial Intelligence and Healthcare**.  
+I’m an enthusiastic developer passionate about building impactful, real-world tech solutions. I enjoy turning ideas into functional products through clean UI, strong backend systems, and intelligent integrations.
 
-I enjoy transforming ideas into meaningful products through clean design, efficient backend systems, and intelligent AI integrations.  
+---
 
-Currently, I’m exploring **AI/ML deeply** while actively participating in **hackathons and building innovative projects**.
+## ✨ Currently Exploring
+
+- 🚀 Hackathons & rapid product building  
+- 🧠 Artificial Intelligence & Machine Learning  
+- ⚡ Real-world problem solving  
 
 ---
 
@@ -23,10 +28,10 @@ Currently, I’m exploring **AI/ML deeply** while actively participating in **ha
 
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-black?logo=linkedin&style=for-the-badge">
+    <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?logo=linkedin&style=for-the-badge&logoColor=00F7FF">
   </a>
   <a href="mailto:pearlmeht@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-black?logo=gmail&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Gmail-0a0a0a?logo=gmail&style=for-the-badge&logoColor=00F7FF">
   </a>
 </p>
 
@@ -35,20 +40,20 @@ Currently, I’m exploring **AI/ML deeply** while actively participating in **ha
 ## 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,dart,java,cpp,c,kotlin,flutter,react,html,css,tailwind,flask,firebase,fastapi,mongodb,mysql,sqlite,supabase,tensorflow,pytorch,sklearn,git,github,vscode,androidstudio,figma,postman" />
+<img src="https://skillicons.dev/icons?i=python,js,dart,java,cpp,c,kotlin,flutter,react,html,css,tailwind,flask,firebase,fastapi,mongodb,mysql,sqlite,supabase,tensorflow,pytorch,sklearn,git,github,vscode,androidstudio,figma,postman&theme=dark" />
 </p>
 
 ---
 
-## ✨ Currently Exploring
+## ⚡ Fun Animated Section
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+%26+Machine+Learning;Real-time+AI+Applications;Hackathon+Projects;Scalable+System+Design" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Code.+Build.+Repeat.;Always+Learning+New+Things;Turning+Ideas+into+Reality" />
 </p>
 
 ---
 
 <!-- DARK FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:000000&height=120&section=footer"/>
 </p>
