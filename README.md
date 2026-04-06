@@ -1,9 +1,8 @@
-<!-- 💜 CUSTOM SEMI-CIRCLE ANIMATED HEADER -->
 <p align="center">
-<svg width="100%" height="260" viewBox="0 0 800 260" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="220" viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg">
 
+  <!-- Gradient -->
   <defs>
-    <!-- 🌈 Animated Gradient -->
     <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#4b0082">
         <animate attributeName="stop-color" values="#4b0082;#8a2be2;#da70d6;#4b0082" dur="6s" repeatCount="indefinite"/>
@@ -12,56 +11,36 @@
         <animate attributeName="stop-color" values="#da70d6;#8a2be2;#4b0082;#da70d6" dur="6s" repeatCount="indefinite"/>
       </stop>
     </linearGradient>
-
-    <!-- Glow -->
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="5" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
   </defs>
 
-  <!-- 💜 Semi Circle -->
-  <path d="M0,200 Q400,0 800,200 L800,260 L0,260 Z"
-        fill="url(#grad)" filter="url(#glow)"/>
+  <!-- Semi-circle -->
+  <path d="M0,180 Q400,0 800,180 L800,220 L0,220 Z"
+        fill="url(#grad)"/>
 
-  <!-- ⚡ Moving Particles -->
+  <!-- Moving dot -->
   <circle r="4" fill="#ffffff">
     <animateMotion dur="6s" repeatCount="indefinite"
-      path="M0,200 Q400,0 800,200"/>
+      path="M0,180 Q400,0 800,180"/>
   </circle>
 
-  <circle r="3" fill="#00F7FF">
-    <animateMotion dur="8s" repeatCount="indefinite"
-      path="M800,200 Q400,0 0,200"/>
-  </circle>
-
-  <circle r="5" fill="#da70d6">
-    <animateMotion dur="7s" repeatCount="indefinite"
-      path="M200,200 Q400,50 600,200"/>
-  </circle>
-
-  <!-- 👋 TEXT -->
-  <text x="50%" y="120" text-anchor="middle"
-        font-size="38"
+  <!-- TEXT -->
+  <text x="50%" y="110" text-anchor="middle"
+        font-size="34"
         fill="white"
         font-family="Arial"
         font-weight="bold">
     Hi I'm Pearl 👋
   </text>
 
-  <!-- ✨ SUBTEXT -->
-  <text x="50%" y="155" text-anchor="middle"
+  <text x="50%" y="140" text-anchor="middle"
         font-size="16"
-        fill="#e0e0e0"
-        font-family="Arial">
+        fill="#e0e0e0">
     Welcome to my profile
   </text>
 
 </svg>
 </p>
+
 
 <!-- 👾 PROFILE ICON -->
 <p align="center">
