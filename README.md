@@ -1,31 +1,37 @@
-<!-- 🖤 PURE BLACK HEADER -->
+<!-- 💜 NEON PURPLE HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a0a0a&height=280&section=header&text=Hi%20I'm%20Pearl%20👋&fontSize=60&fontColor=00F7FF&animation=fadeIn&fontAlignY=45"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b0082,50:8a2be2,100:da70d6&height=280&section=header&text=HELLO%20WORLD&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Welcome%20to%20my%20profile&descSize=20&descAlignY=65"/>
 </p>
 
-<!-- ✨ TYPING TEXT -->
+<!-- 👾 PROFILE ICON -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=800&lines=AI%2FML+Explorer;Building+Real+World+Projects;Hackathon+Enthusiast;Creative+Problem+Solver&duration=2500&pause=700" />
+  <img src="https://avatars.githubusercontent.com/u/000000?v=4" width="100" style="border-radius:50%" />
 </p>
 
-<!-- 🔥 STRONG DIVIDER -->
+<!-- ✨ ANIMATED TEXT -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:000000&height=3"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=DA70D6&size=26&center=true&vCenter=true&width=800&lines=Hi+I'm+Pearl+👋;AI%2FML+Explorer;Hackathon+Enthusiast;Building+Impactful+Projects&duration=2500&pause=800" />
+</p>
+
+<!-- 💜 GLOW DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8a2be2,100:4b0082&height=3"/>
 </p>
 
 ---
 
-# 👩‍💻 ABOUT ME
+# 💜 ABOUT ME
 
-I’m an enthusiastic developer passionate about building impactful, real-world tech solutions. I enjoy transforming ideas into clean, functional products using modern technologies, strong backend systems, and intuitive user experiences.
+I’m an enthusiastic developer passionate about building impactful, real-world tech solutions.  
+I enjoy transforming ideas into clean, functional products with modern technologies and intuitive user experiences.
 
 ---
 
 # 🚀 CURRENTLY EXPLORING
 
-- Hackathons & rapid product building  
-- Artificial Intelligence & Machine Learning  
-- Real-world problem solving  
+- ⚡ Hackathons & rapid product building  
+- 🧠 Artificial Intelligence & Machine Learning  
+- 🌍 Real-world problem solving  
 
 ---
 
@@ -33,10 +39,10 @@ I’m an enthusiastic developer passionate about building impactful, real-world 
 
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
+    <img src="https://img.shields.io/badge/LinkedIn-4b0082?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:pearlmeht@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
+    <img src="https://img.shields.io/badge/Gmail-4b0082?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -50,6 +56,22 @@ I’m an enthusiastic developer passionate about building impactful, real-world 
 
 ---
 
+# 📊 GITHUB HISTORY (LIVE STYLE)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=midnight-purple&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=000000&color=da70d6&line=8a2be2&point=ffffff&hide_border=true"/>
+</p>
+
+---
+
 # 🎯 WHAT I DO
 
 - Build full-stack applications with modern technologies  
@@ -59,12 +81,7 @@ I’m an enthusiastic developer passionate about building impactful, real-world 
 
 ---
 
-<!-- 🔥 THICK DIVIDER -->
+<!-- 💜 NEON FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00F7FF&height=4"/>
-</p>
-
-<!-- 🖤 BLACK FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a0a0a&height=150&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:da70d6,50:8a2be2,100:4b0082&height=150&section=footer"/>
 </p>
