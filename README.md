@@ -1,10 +1,16 @@
-<!-- 🔥 DARK PREMIUM HEADER -->
+<!-- 🌗 DYNAMIC HEADER (DARK + LIGHT FRIENDLY GRADIENT) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:0f2027&height=240&section=header&text=Hi%20I'm%20Pearl%20👋&fontSize=48&fontColor=00F7FF&animation=fadeIn&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1a2e,50:16213e,100:0f3460&height=260&section=header&text=Hi%20I'm%20Pearl%20👋&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42&descAlignY=60"/>
 </p>
 
+<!-- ✨ SMOOTH TYPING ANIMATION (REFINED + CLEAN) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI%2FML+Explorer;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=750&lines=AI%2FML+Explorer;Building+Real+World+Projects;Hackathon+Enthusiast;Creative+Problem+Solver&duration=2800&pause=800" />
+</p>
+
+<!-- 🌊 ANIMATED GRADIENT DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:1a1a2e,100:00F7FF&height=2"/>
 </p>
 
 ---
@@ -27,10 +33,10 @@ I’m an enthusiastic developer passionate about building impactful, real-world 
 
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=00F7FF&labelColor=111111"/>
   </a>
   <a href="mailto:pearlmeht@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
+    <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=00F7FF&labelColor=111111"/>
   </a>
 </p>
 
@@ -53,12 +59,12 @@ I’m an enthusiastic developer passionate about building impactful, real-world 
 
 ---
 
-<!-- 🔥 CLEAN DIVIDER -->
+<!-- 🌊 PREMIUM DIVIDER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f2027&height=3"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:16213e,50:0f3460,100:16213e&height=3"/>
 </p>
 
-<!-- 🔥 FOOTER -->
+<!-- 🌗 WAVE FOOTER (SMOOTH GRADIENT FLOW) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:000000&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=140&section=footer"/>
 </p>
