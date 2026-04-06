@@ -1,14 +1,14 @@
-<!-- 🌗 DYNAMIC HEADER (DARK + LIGHT FRIENDLY GRADIENT) -->
+<!-- 🌗 MODERN HEADER (FIXED - NO CUT ISSUE) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1a2e,50:16213e,100:0f3460&height=260&section=header&text=Hi%20I'm%20Pearl%20👋&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=260&section=header&text=Hi%20I'm%20Pearl%20👋&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=42"/>
 </p>
 
-<!-- ✨ SMOOTH TYPING ANIMATION (REFINED + CLEAN) -->
+<!-- ✨ SMOOTH TYPING ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=750&lines=AI%2FML+Explorer;Building+Real+World+Projects;Hackathon+Enthusiast;Creative+Problem+Solver&duration=2800&pause=800" />
 </p>
 
-<!-- 🌊 ANIMATED GRADIENT DIVIDER -->
+<!-- 🌊 PREMIUM DIVIDER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:1a1a2e,100:00F7FF&height=2"/>
 </p>
@@ -59,12 +59,12 @@ I’m an enthusiastic developer passionate about building impactful, real-world 
 
 ---
 
-<!-- 🌊 PREMIUM DIVIDER -->
+<!-- 🌊 CLEAN DIVIDER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:16213e,50:0f3460,100:16213e&height=3"/>
 </p>
 
-<!-- 🌗 WAVE FOOTER (SMOOTH GRADIENT FLOW) -->
+<!-- 🌗 MODERN FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=140&section=footer"/>
 </p>
