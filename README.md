@@ -1,26 +1,25 @@
-<!-- ANIMATED HEADER (GAME / MATRIX STYLE) -->
+<!-- 🔥 DARK PREMIUM HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=250&section=header&text=Hi%20I'm%20Pearl%20👋&fontSize=45&fontColor=00F7FF&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:0f2027&height=240&section=header&text=Hi%20I'm%20Pearl%20👋&fontSize=48&fontColor=00F7FF&animation=fadeIn&fontAlignY=40"/>
 </p>
 
-<!-- TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;AI+%2F+ML+Explorer;Building+Cool+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI%2FML+Explorer;Building+Real+World+Projects" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I’m an enthusiastic developer passionate about building impactful, real-world tech solutions. I enjoy turning ideas into functional products through clean UI, strong backend systems, and intelligent integrations.
+I’m an enthusiastic developer passionate about building impactful, real-world tech solutions. I enjoy transforming ideas into clean, functional products using modern technologies, strong backend systems, and intuitive user experiences.
 
 ---
 
-## ✨ Currently Exploring
+## 🚀 Currently Exploring
 
-- 🚀 Hackathons & rapid product building  
-- 🧠 Artificial Intelligence & Machine Learning  
-- ⚡ Real-world problem solving  
+- Hackathons & rapid product building  
+- Artificial Intelligence & Machine Learning  
+- Real-world problem solving  
 
 ---
 
@@ -28,16 +27,16 @@ I’m an enthusiastic developer passionate about building impactful, real-world 
 
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?logo=linkedin&style=for-the-badge&logoColor=00F7FF">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
   </a>
   <a href="mailto:pearlmeht@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0a0a0a?logo=gmail&style=for-the-badge&logoColor=00F7FF">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
   </a>
 </p>
 
 ---
 
-## 🚀 Tech Stack
+## ⚡ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,js,dart,java,cpp,c,kotlin,flutter,react,html,css,tailwind,flask,firebase,fastapi,mongodb,mysql,sqlite,supabase,tensorflow,pytorch,sklearn,git,github,vscode,androidstudio,figma,postman&theme=dark" />
@@ -45,15 +44,21 @@ I’m an enthusiastic developer passionate about building impactful, real-world 
 
 ---
 
-## ⚡ Fun Animated Section
+## 🎯 What I Do
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Code.+Build.+Repeat.;Always+Learning+New+Things;Turning+Ideas+into+Reality" />
-</p>
+- Build full-stack applications with modern technologies  
+- Explore and implement AI/ML solutions  
+- Participate in hackathons and rapid MVP development  
+- Focus on clean UI/UX and scalable systems  
 
 ---
 
-<!-- DARK FOOTER -->
+<!-- 🔥 CLEAN DIVIDER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:000000&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f2027&height=3"/>
+</p>
+
+<!-- 🔥 FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:000000&height=120&section=footer"/>
 </p>
