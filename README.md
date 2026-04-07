@@ -5,7 +5,7 @@
 
 <!-- 👾 PROFILE ICON -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/000000?v=4" width="100" style="border-radius:50%" />
+  <img src="https://www.google.com/imgres?q=pm%20profile%20in%20purple&imgurl=https%3A%2F%2Fstatic-cdn.jtvnw.net%2Fjtv_user_pictures%2Fac761eff-becc-428f-bac3-ee599a9fdf61-profile_image-300x300.png&imgrefurl=https%3A%2F%2Fwww.twitch.tv%2Fpurple_madnezzz%2Fvideos%3Ffilter%3Dall&docid=5Pm0uj1nlV_5eM&tbnid=AofSSz7K2mE1ZM&vet=12ahUKEwicupzr19uTAxXirlYBHTJ6Js4QnPAOegQIIhAB..i&w=300&h=300&hcb=2&ved=2ahUKEwicupzr19uTAxXirlYBHTJ6Js4QnPAOegQIIhAB" width="100" style="border-radius:50%" />
 </p>
 
 <!-- ✨ ANIMATED TEXT -->
